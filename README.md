@@ -1,0 +1,1 @@
+# girilen-3-sayinin-karesi
